@@ -14,3 +14,12 @@ Some basic Git commands are:
     git add
     git commit
 ```
+sintaxis | efecto 
+  --- | ---
+**text** | negrita
+*text* | cursiva
+`text`| sobresaltado
+***text*** |italic bold
+<sub>text</sub> |texto subscrito
+<sup>text </sup> |texto superscrito
+~text~ |tachado
